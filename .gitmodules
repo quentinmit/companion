@@ -505,3 +505,6 @@
 [submodule "lib/module/kramer-vp734"]
 	path = lib/module/kramer-vp734
 	url = https://github.com/bitfocus/companion-module-kramer-vp734.git
+[submodule "lib/module/generic-tcp-udp"]
+	path = lib/module/generic-tcp-udp
+	url = https://github.com/McHauge/companion-module-generic-tcp-udp.git
