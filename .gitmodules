@@ -51,7 +51,7 @@
 	url = https://github.com/bitfocus/companion-module-videohub.git
 [submodule "lib/module/atem"]
 	path = lib/module/atem
-	url = https://github.com/bitfocus/companion-module-atem.git
+	url = https://github.com/quentinmit/companion-module-atem.git
 [submodule "lib/module/pvp"]
 	path = lib/module/pvp
 	url = https://github.com/bitfocus/companion-module-pvp.git
